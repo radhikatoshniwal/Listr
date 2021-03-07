@@ -1,0 +1,48 @@
+{
+    "project_info": {
+      "project_number": "40081877211",
+      "firebase_url": "https://hunar-app.firebaseio.com",
+      "project_id": "hunar-app",
+      "storage_bucket": "hunar-app.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:40081877211:android:f103fd2a5eccf03006c4fe",
+          "android_client_info": {
+            "package_name": "com.example.hunar"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "40081877211-qt9v1mcfefe56mmfi0hf0nqh6ijtjjil.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.example.hunar",
+              "certificate_hash": "1f0d477b16298896589af722e7d09343def67715"
+            }
+          },
+          {
+            "client_id": "40081877211-o15jn91u76dvcu4ep8qbn0qsvh8c86tp.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCuHJkfZFW6jv3olorK94eB7ZFm_2MTaV4"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "40081877211-o15jn91u76dvcu4ep8qbn0qsvh8c86tp.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
