@@ -1,2 +1,4 @@
 # Listr
-A Flutter-Firebase list app with OTP+login features
+
+A basic CRUD application using Flutter and Firebase.
+Contains a Login page and an OTP feature as well.
